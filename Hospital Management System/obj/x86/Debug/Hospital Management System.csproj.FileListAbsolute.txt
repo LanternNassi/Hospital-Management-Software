@@ -1,0 +1,19 @@
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.exe
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.pdb
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Screens.Pharmaceutical_Management.Inventory.resources
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Screens.Form1.resources
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Screens.Pharmaceutical_Management.frmTransactions.resources
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Screens.Pharmaceutical_Management.frmDealers.resources
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.accdb
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Screens.Pharmaceutical_Management.frmCategory.resources
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\bin\Debug\Interop.WIA.dll
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Interop.WIA.dll
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital Management System.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Screens.Pharmaceutical_Management.frmPurchasesAndSales.resources
+C:\Users\admin\Desktop\Hospital management system\Hospital Management System\Hospital Management System\obj\x86\Debug\Hospital_Management_System.Screens.Pharmaceutical_Management.frmWorker.resources
